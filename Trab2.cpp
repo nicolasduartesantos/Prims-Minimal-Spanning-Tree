@@ -1,7 +1,6 @@
 #include <list>
 using std::list;
 
-// A C++ program to demonstrate common Binary Heap Operations
 #include<iostream>
 #include<climits>
 using namespace std;
